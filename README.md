@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a new GitHub employee serving GitHub's Partners! Connect with me on [LinkedIn](https://www.linkedin.com/in/allandcp/)
+
 <!--
 **allandcp/allandcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
